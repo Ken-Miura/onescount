@@ -1,1 +1,2 @@
 # onescount
+go test -bench .
